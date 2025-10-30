@@ -94,6 +94,22 @@ export default defineConfig({
           { text: 'Recherche', link: '/fr/busqueda-ayuda' }
         ]
       }
+    },
+    de: {
+      label: 'Deutsch',
+      lang: 'de',
+      link: '/de/',
+      themeConfig: {
+        nav: [
+          { text: 'Startseite', link: '/de/' },
+          { text: 'PTBS', link: '/de/tept' },
+          { text: 'PRENC', link: '/de/prenc' },
+          { text: 'Autismus', link: '/de/autismo' },
+          { text: 'Tourette', link: '/de/tourette' },
+          { text: 'Mythen', link: '/de/mitos' },
+          { text: 'Suche', link: '/de/busqueda-ayuda' }
+        ]
+      }
     }
   },
 
@@ -441,6 +457,74 @@ export default defineConfig({
             { text: 'Mythes 61–70 (Famille)', link: '/fr/mitos-generales-7' }
           ]
         }
+      ],
+      // Sidebar para alemán
+      '/de/': [
+        {
+          text: 'Hauptbedingungen',
+          items: [
+            { text: 'Was ist PTBS?', link: '/de/tept' },
+            { text: 'Was ist PRENC?', link: '/de/prenc' },
+            { text: 'Was ist Autismus?', link: '/de/autismo' },
+            { text: 'Was ist Tourette?', link: '/de/tourette' }
+          ]
+        },
+        {
+          text: 'Mythen nach Lebenskontext',
+          items: [
+            { text: 'Sakramentales Leben', link: '/de/mitos-sacramental' },
+            { text: 'Jugend', link: '/de/mitos-juventud' },
+            { text: 'Taufe und Kinder', link: '/de/mitos-bautismo' },
+            { text: 'Ältere Menschen', link: '/de/mitos-adultos-mayores' },
+            { text: 'Lebensphasen', link: '/de/mitos-etapas-de-la-vida' },
+            { text: 'Lebensphasen (Forts.)', link: '/de/mitos-etapas-de-la-vida-continuacion' },
+            { text: 'Kulturen', link: '/de/mitos-culturas' },
+            { text: 'Kulturen (Forts.)', link: '/de/mitos-culturas-continuacion' },
+            { text: 'Soziale Klassen', link: '/de/mitos-clases-sociales' },
+            { text: 'Soziale Klassen (Forts.)', link: '/de/mitos-clases-sociales-continuacion' },
+            { text: 'Berufliche Auswirkungen', link: '/de/mitos-laboral' },
+            { text: 'Berufliche Auswirkungen (Forts.)', link: '/de/mitos-laboral-continuacion' },
+            { text: 'Kinder erziehen', link: '/de/mitos-crianza' },
+            { text: 'Mission und Dienst', link: '/de/mitos-mision' },
+            { text: 'Trauer und Verlust', link: '/de/mitos-duelo' },
+            { text: 'Gebet und Studium', link: '/de/mitos-oracion' },
+            { text: 'Führung', link: '/de/mitos-liderazgo' },
+            { text: 'Liebe', link: '/de/mitos-amor' },
+            { text: 'Liebe (Forts.)', link: '/de/mitos-amor-continuacion' },
+            { text: 'Ehe', link: '/de/mitos-relaciones' },
+            { text: 'Familie', link: '/de/mitos-familia' },
+            { text: 'Familie (Forts.)', link: '/de/mitos-familia-continuacion' },
+            { text: 'Freundschaft', link: '/de/mitos-amistad' },
+            { text: 'Freundschaft (Forts.)', link: '/de/mitos-amistad-continuacion' },
+            { text: 'Bildung', link: '/de/mitos-educacion' },
+            { text: 'Bildung (Forts.)', link: '/de/mitos-educacion-continuacion' },
+            { text: 'Evolution', link: '/de/mitos-evolucion' },
+            { text: 'Evolution (Forts.)', link: '/de/mitos-evolucion-continuacion' },
+            { text: 'Ängste', link: '/de/mitos-miedos' },
+            { text: 'Ängste (Forts.)', link: '/de/mitos-miedos-continuacion' }
+          ]
+        },
+        {
+          text: 'Mythen nach Art der Verwirrung',
+          items: [
+            { text: 'P.R.E.N.C. und Fetischismus', link: '/de/mitos-fetichismo' },
+            { text: 'Internet und soziale Medien', link: '/de/mitos-internet' },
+            { text: 'Technologie', link: '/de/mitos-tecnologia' },
+            { text: 'Reue', link: '/de/mitos-arrepentimiento' }
+          ]
+        },
+        {
+          text: 'Allgemeine Mythen',
+          items: [
+            { text: 'Mythen 1–10', link: '/de/mitos-generales-1' },
+            { text: 'Mythen 11–20', link: '/de/mitos-generales-2' },
+            { text: 'Mythen 21–30', link: '/de/mitos-generales-3' },
+            { text: 'Mythen 31–40', link: '/de/mitos-generales-4' },
+            { text: 'Mythen 41–50', link: '/de/mitos-generales-5' },
+            { text: 'Mythen 51–60 (Ehe)', link: '/de/mitos-generales-6' },
+            { text: 'Mythen 61–70 (Familie)', link: '/de/mitos-generales-7' }
+          ]
+        }
       ]
     },
     
@@ -539,6 +623,23 @@ export default defineConfig({
                 selectText: 'pour sélectionner',
                 navigateText: 'pour naviguer',
                 closeText: 'pour fermer'
+              }
+            }
+          }
+        },
+        de: {
+          translations: {
+            button: {
+              buttonText: 'Suchen',
+              buttonAriaLabel: 'Suchen'
+            },
+            modal: {
+              noResultsText: 'Keine Ergebnisse gefunden',
+              resetButtonTitle: 'Suche löschen',
+              footer: {
+                selectText: 'zum Auswählen',
+                navigateText: 'zum Navigieren',
+                closeText: 'zum Schließen'
               }
             }
           }
