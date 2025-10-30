@@ -62,6 +62,22 @@ export default defineConfig({
           { text: 'Busca', link: '/pt/busqueda-ayuda' }
         ]
       }
+    },
+    it: {
+      label: 'Italiano',
+      lang: 'it',
+      link: '/it/',
+      themeConfig: {
+        nav: [
+          { text: 'Home', link: '/it/' },
+          { text: 'PTSD', link: '/it/tept' },
+          { text: 'PRENC', link: '/it/prenc' },
+          { text: 'Autismo', link: '/it/autismo' },
+          { text: 'Tourette', link: '/it/tourette' },
+          { text: 'Miti', link: '/it/mitos' },
+          { text: 'Ricerca', link: '/it/busqueda-ayuda' }
+        ]
+      }
     }
   },
 
@@ -273,6 +289,74 @@ export default defineConfig({
             { text: 'Mitos 61–70 (Família)', link: '/pt/mitos-gerais-7' }
           ]
         }
+      ],
+      // Sidebar para italiano
+      '/it/': [
+        {
+          text: 'Condizioni Principali',
+          items: [
+            { text: 'Che cos\'è il PTSD?', link: '/it/tept' },
+            { text: 'Che cos\'è PRENC?', link: '/it/prenc' },
+            { text: 'Che cos\'è l\'Autismo?', link: '/it/autismo' },
+            { text: 'Che cos\'è la Tourette?', link: '/it/tourette' }
+          ]
+        },
+        {
+          text: 'Miti per Contesto di Vita',
+          items: [
+            { text: 'Vita sacramentale', link: '/it/mitos-sacramental' },
+            { text: 'Adolescenza e gioventù', link: '/it/mitos-juventud' },
+            { text: 'Battesimo e bambini', link: '/it/mitos-bautismo' },
+            { text: 'Anziani', link: '/it/mitos-adultos-mayores' },
+            { text: 'Fasi della vita', link: '/it/mitos-etapas-de-la-vida' },
+            { text: 'Fasi della vita (cont.)', link: '/it/mitos-etapas-de-la-vida-continuacion' },
+            { text: 'Culture', link: '/it/mitos-culturas' },
+            { text: 'Culture (cont.)', link: '/it/mitos-culturas-continuacion' },
+            { text: 'Classi Sociali', link: '/it/mitos-clases-sociales' },
+            { text: 'Classi Sociali (cont.)', link: '/it/mitos-clases-sociales-continuacion' },
+            { text: 'Impatto Lavorativo', link: '/it/mitos-laboral' },
+            { text: 'Impatto Lavorativo (cont.)', link: '/it/mitos-laboral-continuacion' },
+            { text: 'Crescere i figli', link: '/it/mitos-crianza' },
+            { text: 'Missione e servizio', link: '/it/mitos-mision' },
+            { text: 'Lutto e perdita', link: '/it/mitos-duelo' },
+            { text: 'Preghiera e studio', link: '/it/mitos-oracion' },
+            { text: 'Leadership', link: '/it/mitos-liderazgo' },
+            { text: 'Amore', link: '/it/mitos-amor' },
+            { text: 'Amore (cont.)', link: '/it/mitos-amor-continuacion' },
+            { text: 'Matrimonio', link: '/it/mitos-relaciones' },
+            { text: 'Famiglia', link: '/it/mitos-familia' },
+            { text: 'Famiglia (cont.)', link: '/it/mitos-familia-continuacion' },
+            { text: 'Amicizia', link: '/it/mitos-amistad' },
+            { text: 'Amicizia (cont.)', link: '/it/mitos-amistad-continuacion' },
+            { text: 'Educazione', link: '/it/mitos-educacion' },
+            { text: 'Educazione (cont.)', link: '/it/mitos-educacion-continuacion' },
+            { text: 'Evoluzione', link: '/it/mitos-evolucion' },
+            { text: 'Evoluzione (cont.)', link: '/it/mitos-evolucion-continuacion' },
+            { text: 'Paure', link: '/it/mitos-miedos' },
+            { text: 'Paure (cont.)', link: '/it/mitos-miedos-continuacion' }
+          ]
+        },
+        {
+          text: 'Miti per Tipo di Confusione',
+          items: [
+            { text: 'P.R.E.N.C. e feticismo', link: '/it/mitos-fetichismo' },
+            { text: 'Internet e social media', link: '/it/mitos-internet' },
+            { text: 'Tecnologia', link: '/it/mitos-tecnologia' },
+            { text: 'Pentimento', link: '/it/mitos-arrepentimiento' }
+          ]
+        },
+        {
+          text: 'Miti Generali',
+          items: [
+            { text: 'Miti 1–10', link: '/it/mitos-generales-1' },
+            { text: 'Miti 11–20', link: '/it/mitos-generales-2' },
+            { text: 'Miti 21–30', link: '/it/mitos-generales-3' },
+            { text: 'Miti 31–40', link: '/it/mitos-generales-4' },
+            { text: 'Miti 41–50', link: '/it/mitos-generales-5' },
+            { text: 'Miti 51–60 (Matrimonio)', link: '/it/mitos-generales-6' },
+            { text: 'Miti 61–70 (Famiglia)', link: '/it/mitos-generales-7' }
+          ]
+        }
       ]
     },
     
@@ -337,6 +421,23 @@ export default defineConfig({
                 selectText: 'para selecionar',
                 navigateText: 'para navegar',
                 closeText: 'para fechar'
+              }
+            }
+          }
+        },
+        it: {
+          translations: {
+            button: {
+              buttonText: 'Cerca',
+              buttonAriaLabel: 'Cerca'
+            },
+            modal: {
+              noResultsText: 'Nessun risultato trovato',
+              resetButtonTitle: 'Cancella ricerca',
+              footer: {
+                selectText: 'per selezionare',
+                navigateText: 'per navigare',
+                closeText: 'per chiudere'
               }
             }
           }
