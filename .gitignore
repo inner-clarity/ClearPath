@@ -1,0 +1,13 @@
+node_modules/
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+.DS_Store
+*.log
+.vscode/
+.idea/
+
+# Archivos temporales/reservados de Windows
+nul
+**/nul
+
+

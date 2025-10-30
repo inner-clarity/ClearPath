@@ -1,0 +1,31 @@
+{
+  "name": "clearpath",
+  "version": "1.0.0",
+  "description": "ClearPath Documentation Site",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs",
+    "deploy": "gh-pages -d docs/.vitepress/dist"
+  },
+  "keywords": [
+    "vitepress",
+    "static-site",
+    "github-pages",
+    "clearpath"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "^1.0.0",
+    "gh-pages": "^4.0.0",
+    "vue": "^3.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inner-clarity/ClearPath.git"
+  },
+  "homepage": "https://inner-clarity.github.io/ClearPath/"
+}

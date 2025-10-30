@@ -1,0 +1,11 @@
+Autismo.md
+PRENC.md
+PRENCLista.md
+TEPT.md
+Tourette.md
+busca-ajuda.md
+index.md
+mitos-adultos-mayores.md
+mitos-amistade.md
+mitos-sacramental.md
+mitos.md

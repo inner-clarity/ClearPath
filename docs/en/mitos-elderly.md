@@ -1,0 +1,36 @@
+# Myths about P.R.E.N.C. in elderly people or with acquired disability
+
+In old age or after an acquired disability (from accident, illness or aging), many people develop new emotional regulation needs. However, these strategies are often misinterpreted as "loss of dignity" or "spiritual deterioration". Below, **5 common myths** are debunked with clinical foundation and alignment with InnerSight principles.
+
+<details>
+<summary><strong>1. "Elderly adults who use diapers can no longer fully participate in Church life."</strong></summary>
+<p><strong>Reality:</strong> The use of diapers in elderly adults is not always related to incontinence, but can be a P.R.E.N.C. for tactile containment, somatic security or regulation after unresolved trauma. As taught in <em>InnerSight – Spiritual dignity and mental health</em>, full participation does not depend on physical or neurological functionality, but on the desire to follow Christ.<br><strong>Risk:</strong> It is assumed that regulatory need implies spiritual incapacity, unjustly excluding faithful members from callings, sacramentals or communion.</p>
+</details>
+
+<details>
+<summary><strong>2. "If an elderly person uses a P.R.E.N.C., it's only due to incontinence; it has nothing to do with emotional regulation."</strong></summary>
+<p><strong>Reality:</strong> Although incontinence may be present, many elderly adults with histories of trauma, grief or isolation use diapers or regulatory garments for emotional, not physiological need. The body may seek symbolic containment in stages of extreme vulnerability.<br><strong>Risk:</strong> A complex need is reduced to a medical condition, ignoring non-verbal emotional suffering and depriving the person of integral support.</p>
+</details>
+
+<details>
+<summary><strong>3. "People with acquired disability (from accident, illness or aging) should 'adapt without special aids'."</strong></summary>
+<p><strong>Reality:</strong> Adaptation does not mean denying the body's new needs, but honoring them with dignity. As stated in <em>InnerSight – Institutional Proposal</em>, regulatory strategies allow people with acquired disability to maintain their agency, faith and community connection.<br><strong>Risk:</strong> A "heroic resilience" is demanded that emotionally exhausts and can lead to spiritual isolation.</p>
+</details>
+
+<details>
+<summary><strong>4. "An elderly adult who needs a P.R.E.N.C. can no longer serve in meaningful callings."</strong></summary>
+<p><strong>Reality:</strong> Service is not measured by the absence of needs, but by faithfulness, wisdom and love. Many elderly adults with P.R.E.N.C. serve as teachers, counselors, historians or in mercy callings with greater empathy precisely because of their vulnerability experience (<em>InnerSight – Purpose</em>).<br><strong>Risk:</strong> The richness of intergenerational ministry is lost and the elderly are denied the opportunity to continue contributing to the Kingdom.</p>
+</details>
+
+<details>
+<summary><strong>5. "If someone starts using a P.R.E.N.C. in old age, it's a sign of dementia or mental deterioration."</strong></summary>
+<p><strong>Reality:</strong> The use of a P.R.E.N.C. in old age can be a conscious response to grief, loneliness, reactivated trauma or sensory hypersensitivity, not a symptom of cognitive deterioration. As explained in <em>InnerSight – Psychological Foundations</em>, the nervous system never stops seeking security, even in advanced ages.<br><strong>Risk:</strong> A legitimate self-regulation strategy is pathologized, leading to unnecessary interventions or infantilization of capable and faithful elderly adults.</p>
+</details>
+
+---
+
+> 🔗 **Related in InnerSight**:  
+> - [Spiritual dignity and mental health](https://inner-clarity.github.io/InnerSight/en#spiritual-dignity-and-mental-health)  
+> - [Institutional Proposal](https://inner-clarity.github.io/InnerSight/en#institutional-proposal)
+
+*ClearPath is an independent educational resource. It does not substitute the advice of a mental health professional.*
