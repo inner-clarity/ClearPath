@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,ag as l}from"./chunks/framework.B9E6zNJU.js";const q=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"en/PRENCList.md","filePath":"en/PRENCList.md"}'),s={name:"en/PRENCList.md"};function a(r,i,n,u,d,m){return o(),t("div",null,[...i[0]||(i[0]=[l("",30)])])}const y=e(s,[["render",a]]);export{q as __pageData,y as default};
