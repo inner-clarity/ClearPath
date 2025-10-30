@@ -22,10 +22,10 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'Inicio', link: '/es/' },
-          { text: 'TEPT', link: '/es/TEPT' },
-          { text: 'PRENC', link: '/es/PRENC' },
-          { text: 'Autismo', link: '/es/Autismo' },
-          { text: 'Tourette', link: '/es/Tourette' },
+          { text: 'TEPT', link: '/es/tept' },
+          { text: 'PRENC', link: '/es/prenc' },
+          { text: 'Autismo', link: '/es/autismo' },
+          { text: 'Tourette', link: '/es/tourette' },
           { text: 'Mitos', link: '/es/mitos' },
           { text: 'Búsqueda', link: '/es/busqueda-ayuda' }
         ]
@@ -38,10 +38,10 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'Home', link: '/en/' },
-          { text: 'PTSD', link: '/en/TEPT' },
-          { text: 'PRENC', link: '/en/PRENC' },
-          { text: 'Autism', link: '/en/Autismo' },
-          { text: 'Tourette', link: '/en/Tourette' },
+          { text: 'PTSD', link: '/en/tept' },
+          { text: 'PRENC', link: '/en/prenc' },
+          { text: 'Autism', link: '/en/autismo' },
+          { text: 'Tourette', link: '/en/tourette' },
           { text: 'Myths', link: '/en/mitos' },
           { text: 'Search', link: '/en/busqueda-ayuda' }
         ]
@@ -54,10 +54,10 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'Início', link: '/pt/' },
-          { text: 'TEPT', link: '/pt/TEPT' },
-          { text: 'PRENC', link: '/pt/PRENC' },
-          { text: 'Autismo', link: '/pt/Autismo' },
-          { text: 'Tourette', link: '/pt/Tourette' },
+          { text: 'TEPT', link: '/pt/tept' },
+          { text: 'PRENC', link: '/pt/prenc' },
+          { text: 'Autismo', link: '/pt/autismo' },
+          { text: 'Tourette', link: '/pt/tourette' },
           { text: 'Mitos', link: '/pt/mitos' },
           { text: 'Busca', link: '/pt/busqueda-ayuda' }
         ]
@@ -75,10 +75,10 @@ export default defineConfig({
         {
           text: 'Condiciones Principales',
           items: [
-            { text: '¿Qué es TEPT?', link: '/es/TEPT' },
-            { text: '¿Qué es PRENC?', link: '/es/PRENC' },
-            { text: '¿Qué es Autismo?', link: '/es/Autismo' },
-            { text: '¿Qué es Tourette?', link: '/es/Tourette' }
+            { text: '¿Qué es TEPT?', link: '/es/tept' },
+            { text: '¿Qué es PRENC?', link: '/es/prenc' },
+            { text: '¿Qué es Autismo?', link: '/es/autismo' },
+            { text: '¿Qué es Tourette?', link: '/es/tourette' }
           ]
         },
         {
@@ -143,10 +143,10 @@ export default defineConfig({
         {
           text: 'Main Conditions',
           items: [
-            { text: 'What is PTSD?', link: '/en/TEPT' },
-            { text: 'What is PRENC?', link: '/en/PRENC' },
-            { text: 'What is Autism?', link: '/en/Autismo' },
-            { text: 'What is Tourette?', link: '/en/Tourette' }
+            { text: 'What is PTSD?', link: '/en/tept' },
+            { text: 'What is PRENC?', link: '/en/prenc' },
+            { text: 'What is Autism?', link: '/en/autismo' },
+            { text: 'What is Tourette?', link: '/en/tourette' }
           ]
         },
         {
@@ -211,10 +211,10 @@ export default defineConfig({
         {
           text: 'Condições Principais',
           items: [
-            { text: 'O que é TEPT?', link: '/pt/TEPT' },
-            { text: 'O que é PRENC?', link: '/pt/PRENC' },
-            { text: 'O que é Autismo?', link: '/pt/Autismo' },
-            { text: 'O que é Tourette?', link: '/pt/Tourette' }
+            { text: 'O que é TEPT?', link: '/pt/tept' },
+            { text: 'O que é PRENC?', link: '/pt/prenc' },
+            { text: 'O que é Autismo?', link: '/pt/autismo' },
+            { text: 'O que é Tourette?', link: '/pt/tourette' }
           ]
         },
         {
