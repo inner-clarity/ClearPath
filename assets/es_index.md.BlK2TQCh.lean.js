@@ -1,0 +1,1 @@
+import{_ as a,c as i,o,ag as t}from"./chunks/framework.B-XtCDNB.js";const u=JSON.parse('{"title":"ClearPath","description":"","frontmatter":{},"headers":[],"relativePath":"es/index.md","filePath":"es/index.md"}'),s={name:"es/index.md"};function l(r,e,n,m,c,d){return o(),i("div",null,[...e[0]||(e[0]=[t("",27)])])}const p=a(s,[["render",l]]);export{u as __pageData,p as default};
