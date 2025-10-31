@@ -1,4 +1,4 @@
-# 50 Myths about PRENC and PTSD
+﻿# 50 Myths about PRENC and PTSD
 
 Below are common myths —and their clinical clarifications— about Post-Traumatic Stress Disorder (PTSD/C-PTSD) and Non-Conventional Emotional Regulation Procedures (P.R.E.N.C.). Each point can be expanded for greater understanding.
 
@@ -363,6 +363,8 @@ Below are common myths —and their clinical clarifications— about Post-Trauma
 <p><strong>Reality:</strong> A home where the Gospel is lived with authenticity —including compassion for one's own needs— is a seedbed of genuine faith.<br><strong>Risk:</strong> Holiness is equated with the absence of human needs, contradicting Christ's example, who healed bodies and souls.</p>
 </details>
 
+---
 
-
-
+::: tip
+Disclaimer pending translation
+:::

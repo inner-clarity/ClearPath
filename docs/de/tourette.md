@@ -94,3 +94,9 @@ Mit Christus-ähnlicher Liebe zu dienen bedeutet **Tics nicht als Mangel an Resp
 ---
 
 > **Hinweis**: Dieser Inhalt dient Bildungszwecken. Er ersetzt nicht die professionelle Diagnose oder Behandlung. Wenn Sie das Tourette-Syndrom bei sich selbst oder jemandem, den Sie kennen, vermuten, suchen Sie die Bewertung eines Neurologen oder Spezialisten für Neuroentwicklung.
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

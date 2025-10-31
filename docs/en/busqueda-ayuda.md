@@ -1,4 +1,4 @@
-# 🔍 Search Guide
+﻿# 🔍 Search Guide
 
 ## How to search effectively in ClearPath
 
@@ -37,3 +37,9 @@ To find exact phrases, use quotes:
 2. Use longer phrases
 3. Include related context
 4. Check spelling
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

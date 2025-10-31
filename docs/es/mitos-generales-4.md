@@ -1,4 +1,4 @@
-# Mitos generales sobre P.R.E.N.C. y TEPT (31–40)
+﻿# Mitos generales sobre P.R.E.N.C. y TEPT (31–40)
 
 Cuarta entrega de una colección de **70 mitos fundamentales** que abordan confusiones comunes sobre el Trastorno de Estrés Postraumático (TEPT/TEPT-C) y los Procedimientos de Regulación Emocional No Convencionales (P.R.E.N.C.). Cada mito se desmonta con fundamento clínico y alineación con los principios de InnerSight.
 
@@ -59,3 +59,9 @@ Cuarta entrega de una colección de **70 mitos fundamentales** que abordan confu
 > - [Cuando el amor se condiciona a la conformidad](https://inner-clarity.github.io/InnerSight/es#cuando-el-amor-se-condiciona-a-la-conformidad)
 
 *ClearPath es un recurso educativo independiente. No sustituye el consejo de un profesional de la salud mental.*
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

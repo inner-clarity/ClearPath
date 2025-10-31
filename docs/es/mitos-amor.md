@@ -1,4 +1,4 @@
-# Mitos sobre los P.R.E.N.C. y el amor
+﻿# Mitos sobre los P.R.E.N.C. y el amor
 
 En el Trastorno de Estrés Postraumático (TEPT) los P.R.E.N.C. pueden tener incidencia en aspectos de la vida, desmontar ideas erróneas relacionadas con la supuesta incompatibilidad —o supuesta compatibilidad absoluta— entre el uso de estrategias emocionales no convencionales y las relaciones amorosas. Sin embargo, cuando una persona necesita estrategias de regulación emocional para habitar su cuerpo con paz, surgen mitos que confunden la fisiología con el remplazo del amor.A continuación, se desmontan **5 mitos comunes** con fundamento clínico y alineación con los principios de InnerSight.
 
@@ -39,3 +39,9 @@ En el Trastorno de Estrés Postraumático (TEPT) los P.R.E.N.C. pueden tener inc
 > - [Naturaleza de la regulación emocional](https://inner-clarity.github.io/InnerSight/es#naturaleza-de-la-regulación-emocional)
 
 *ClearPath es un recurso educativo independiente. No sustituye el consejo de un profesional de la salud mental.*
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

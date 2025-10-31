@@ -1,4 +1,4 @@
-# Mitos sobre los P.R.E.N.C. y el liderazgo en la Iglesia
+﻿# Mitos sobre los P.R.E.N.C. y el liderazgo en la Iglesia
 
 Servir en un llamamiento es una bendición y una oportunidad de discipulado. Sin embargo, cuando un líder necesita estrategias de regulación emocional para cumplir su responsabilidad con paz, surgen mitos que pueden impedir su participación plena. A continuación, se desmontan **5 mitos comunes** con fundamento clínico y alineación con los principios de InnerSight.
 
@@ -34,3 +34,9 @@ Servir en un llamamiento es una bendición y una oportunidad de discipulado. Sin
 > - [Propuesta Institucional](https://inner-clarity.github.io/InnerSight/es#propuesta-institucional)
 
 *ClearPath es un recurso educativo independiente. No sustituye el consejo de un profesional de la salud mental.*
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

@@ -85,3 +85,9 @@ Jeder Eintrag behandelt einen **spezifischen Mythos**, erklärt, warum er aus kl
 > — **Moroni 7:47**
 
 *ClearPath ist eine unabhängige Bildungsressource, erstellt von treuen Mitgliedern. Sie ist nicht offiziell mit der Kirche Jesu Christi der Heiligen der Letzten Tage verbunden oder von ihr gebilligt.*
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

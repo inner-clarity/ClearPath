@@ -1,4 +1,4 @@
-# Mitos sobre los P.R.E.N.C. y las relaciones conyugales
+﻿# Mitos sobre los P.R.E.N.C. y las relaciones conyugales
 
 La intimidad conyugal es un aspecto sagrado del matrimonio. Sin embargo, cuando uno de los cónyuges necesita estrategias de regulación emocional para sentirse seguro en su cuerpo, surgen malentendidos que pueden afectar la conexión emocional y espiritual. A continuación, se desmontan **5 mitos comunes** con fundamento clínico y alineación con los principios de InnerSight.
 
@@ -34,3 +34,9 @@ La intimidad conyugal es un aspecto sagrado del matrimonio. Sin embargo, cuando 
 > - [Dignidad espiritual y salud mental](https://inner-clarity.github.io/InnerSight/es#dignidad-espiritual-y-salud-mental)
 
 *ClearPath es un recurso educativo independiente. No sustituye el consejo de un profesional de la salud mental.*
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

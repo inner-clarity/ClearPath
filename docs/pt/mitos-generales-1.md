@@ -1,4 +1,4 @@
-# Mitos gerais sobre P.R.E.N.C. e TEPT (1–10)
+﻿# Mitos gerais sobre P.R.E.N.C. e TEPT (1–10)
 
 Estes são os primeiros 10 de uma coleção de **70 mitos fundamentais** que abordam confusões comuns sobre o Transtorno de Estresse Pós-Traumático (TEPT/TEPT-C) e os Procedimentos de Regulação Emocional Não Convencionais (P.R.E.N.C.). Cada mito é desmontado com fundamento clínico e alinhamento com os princípios do InnerSight.
 
@@ -59,3 +59,9 @@ Estes são os primeiros 10 de uma coleção de **70 mitos fundamentais** que abo
 > - [Compreensão clínica das necessidades de regulação emocional](https://inner-clarity.github.io/InnerSight/pt#compreensão-clínica-das-necessidades-de-regulação-emocional)
 
 *ClearPath é um recurso educacional independente. Não substitui o conselho de um profissional de saúde mental.*
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

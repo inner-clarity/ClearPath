@@ -1,4 +1,4 @@
-# Mitos generales sobre P.R.E.N.C. y TEPT (41–50)
+﻿# Mitos generales sobre P.R.E.N.C. y TEPT (41–50)
 
 Quinta entrega de una colección de **70 mitos fundamentales** que abordan confusiones comunes sobre el Trastorno de Estrés Postraumático (TEPT/TEPT-C) y los Procedimientos de Regulación Emocional No Convencionales (P.R.E.N.C.). Cada mito se desmonta con fundamento clínico y alineación con los principios de InnerSight.
 
@@ -59,3 +59,9 @@ Quinta entrega de una colección de **70 mitos fundamentales** que abordan confu
 > - [Impacto de exigir el abandono de estrategias regulatorias necesarias](https://inner-clarity.github.io/InnerSight/es#impacto-de-exigir-el-abandono-de-estrategias-regulatorias-necesarias)
 
 *ClearPath es un recurso educativo independiente. No sustituye el consejo de un profesional de la salud mental.*
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

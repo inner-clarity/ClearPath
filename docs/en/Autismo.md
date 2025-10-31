@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 ---
 
@@ -15,4 +15,8 @@ onMounted(() => {
 
 This page has moved to [Autism](/en/Autism).
 
+---
 
+::: tip
+Disclaimer pending translation
+:::

@@ -1,4 +1,4 @@
-# Mitos sobre os P.R.E.N.C. e as classes sociais (continuação)
+﻿# Mitos sobre os P.R.E.N.C. e as classes sociais (continuação)
 
 O Transtorno de Estresse Pós-Traumático (TEPT) não está limitado a uma classe social, a ideia errônea de que o TEPT afeta apenas certas classes sociais (por exemplo, apenas pessoas pobres, ou apenas ricos, etc.) No entanto, quando uma pessoa precisa de estratégias de regulação emocional para habitar seu corpo com paz, surgem mitos que confundem a fisiologia com as classes sociais. A seguir, são desmontados **5 mitos comuns** com fundamento clínico e alinhamento com os princípios do InnerSight.
 
@@ -45,7 +45,8 @@ O Transtorno de Estresse Pós-Traumático (TEPT) não está limitado a uma class
 
 *ClearPath é um recurso educacional independente. Não substitui o conselho de um profissional de saúde mental.*
 
+---
 
-
-
-
+::: tip
+Disclaimer pending translation
+:::

@@ -85,3 +85,9 @@ Chaque entrée aborde un **mythe spécifique**, explique pourquoi il est faux d'
 > — **Moroni 7:47**
 
 *ClearPath est une ressource éducative indépendante, créée par des membres fidèles. Elle n'est pas affiliée ni officiellement approuvée par l'Église de Jésus-Christ des Saints des Derniers Jours.*
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

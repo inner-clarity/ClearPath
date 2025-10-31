@@ -1,4 +1,4 @@
-# Mitos sobre os P.R.E.N.C. e os medos (Cont.)
+﻿# Mitos sobre os P.R.E.N.C. e os medos (Cont.)
 
 No Transtorno de Estresse Pós-Traumático (TEPT), os P.R.E.N.C. podem ter incidência em aspectos da vida, uma afirmação que, embora contenha parte da verdade (os PRENCs não eliminam os medos pela raiz como uma cura mágica), costuma ser usada para minimizar seu valor real: regular a resposta ao medo, não erradicar a emoção em si. A seguir, são desmontados **5 mitos comuns** com fundamento clínico e alinhamento com os princípios do InnerSight.
 
@@ -40,7 +40,8 @@ No Transtorno de Estresse Pós-Traumático (TEPT), os P.R.E.N.C. podem ter incid
 
 *ClearPath é um recurso educacional independente. Não substitui o conselho de um profissional de saúde mental.*
 
+---
 
-
-
-
+::: tip
+Disclaimer pending translation
+:::

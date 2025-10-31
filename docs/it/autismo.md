@@ -88,3 +88,9 @@ Ministrare con amore simile a quello di Cristo implica **non esigere che "agisca
 ---
 
 > **Nota**: Questo contenuto ha scopi educativi. Non sostituisce la diagnosi né il trattamento professionale. Se sospetti autismo in te stesso/a o in qualcuno che conosci, cerca la valutazione di uno specialista in neurosviluppo.
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

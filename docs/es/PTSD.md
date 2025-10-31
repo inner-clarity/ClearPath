@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 ---
 
@@ -15,4 +15,8 @@ onMounted(() => {
 
 Esta página se ha movido a [TEPT](/es/TEPT).
 
+---
 
+::: tip
+Disclaimer pending translation
+:::

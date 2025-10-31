@@ -1,4 +1,4 @@
-# Autism (Autism Spectrum Disorder)
+﻿# Autism (Autism Spectrum Disorder)
 
 ## Clinical definition
 **Autism**, or **Autism Spectrum Disorder (ASD)**, is a **neurodevelopmental neurological condition** that manifests from early childhood and is characterized by differences in:
@@ -101,3 +101,9 @@ The spiritual dignity of an autistic person **doesn't depend on their ability to
 ---
 
 > **Note**: This content is for educational purposes. It does not substitute professional diagnosis or treatment. If you or someone you know shows signs of autism, an evaluation by a multidisciplinary team specialized in neurodevelopment is recommended.
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

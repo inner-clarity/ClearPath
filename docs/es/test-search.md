@@ -1,4 +1,4 @@
-# Test de Búsqueda
+﻿# Test de Búsqueda
 
 Este es un archivo de prueba para verificar si la búsqueda funciona correctamente.
 
@@ -20,3 +20,9 @@ También contiene otras palabras como: pañal, bombacha, tela, goma, procedimien
 ## Más contenido visible
 
 Este contenido también debería ser indexado.
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

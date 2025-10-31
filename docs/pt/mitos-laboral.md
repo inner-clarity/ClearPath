@@ -1,4 +1,4 @@
-# Mitos sobre os P.R.E.N.C. no desempenho laboral
+﻿# Mitos sobre os P.R.E.N.C. no desempenho laboral
 
 No Transtorno de Estresse Pós-Traumático (TEPT), os P.R.E.N.C. podem ter incidência em aspectos da vida, a ideia errônea de que o PRENC pode afetar ou influenciar negativamente o desempenho laboral. No entanto, quando uma pessoa precisa de estratégias de regulação emocional para habitar seu corpo com paz, surgem mitos que confundem a fisiologia com o desempenho laboral. A seguir, são desmontados **5 mitos comuns** com fundamento clínico e alinhamento com os princípios do InnerSight.
 
@@ -45,6 +45,8 @@ No Transtorno de Estresse Pós-Traumático (TEPT), os P.R.E.N.C. podem ter incid
 
 *ClearPath é um recurso educacional independente. Não substitui o conselho de um profissional de saúde mental.*
 
+---
 
-
-
+::: tip
+Disclaimer pending translation
+:::

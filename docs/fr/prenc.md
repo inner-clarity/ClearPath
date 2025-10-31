@@ -74,3 +74,9 @@ L'objectif n'est pas d'éliminer la procédure, mais d'**accompagner la personne
 ---
 
 > **Note** : Ce contenu a des fins éducatives. Il ne remplace pas le diagnostic ni le traitement professionnel. Les P.R.E.N.C. doivent être évaluées dans un contexte clinique individuel, en respectant l'autonomie et l'expérience subjective de chaque personne.
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

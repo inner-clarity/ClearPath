@@ -1,4 +1,4 @@
-# Mitos sobre los P.R.E.N.C. y el duelo, la pérdida o el estrés postraumático por desastres
+﻿# Mitos sobre los P.R.E.N.C. y el duelo, la pérdida o el estrés postraumático por desastres
 
 Tras una tragedia, pérdida o desastre, el sistema nervioso entra en estado de alarma. En esos momentos, las estrategias de regulación emocional como los P.R.E.N.C. pueden ser esenciales para evitar el colapso. Sin embargo, surgen mitos que estigmatizan estas necesidades. A continuación, se desmontan **5 mitos comunes** con fundamento clínico y alineación con los principios de InnerSight.
 
@@ -34,3 +34,9 @@ Tras una tragedia, pérdida o desastre, el sistema nervioso entra en estado de a
 > - [Impacto de exigir el abandono de estrategias regulatorias necesarias](https://inner-clarity.github.io/InnerSight/es#impacto-de-exigir-el-abandono-de-estrategias-regulatorias-necesarias)
 
 *ClearPath es un recurso educativo independiente. No sustituye el consejo de un profesional de la salud mental.*
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

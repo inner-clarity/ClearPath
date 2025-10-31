@@ -1,4 +1,4 @@
-# 50 Mitos sobre PRENC e TEPT
+﻿# 50 Mitos sobre PRENC e TEPT
 
 A seguir, são apresentados mitos comuns —e suas clarificações clínicas— sobre o Transtorno de Estresse Pós-Traumático (TEPT/TEPT-C) e os Procedimentos de Regulação Emocional Não Convencionais (P.R.E.N.C.). Cada ponto pode ser expandido para maior compreensão.
 
@@ -362,3 +362,9 @@ A seguir, são apresentados mitos comuns —e suas clarificações clínicas— 
 <summary><strong>70. "Um lar com P.R.E.N.C. não é um ambiente apropriado para criar filhos fiéis."</strong></summary>
 <p><strong>Realidade:</strong> Um lar onde se vive o Evangelho com autenticidade —incluindo compaixão pelas próprias necessidades— é um semeador de fé genuína.<br><strong>Risco:</strong> Se equipara a santidade com a ausência de necessidades humanas, contradizendo o exemplo de Cristo, que curou corpos e almas.</p>
 </details>
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

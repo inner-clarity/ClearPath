@@ -4,8 +4,8 @@ export default defineConfig({
   title: 'ClearPath',
   description: 'Respuestas claras para corazones confundidos',
   
-  // Base URL: '/' para desarrollo local, '/ClearPath/' para GitHub Pages
-  base: process.env.NODE_ENV === 'production' ? '/ClearPath/' : '/',
+  // Base URL: '/' para desarrollo local, '/ClearPath/' para GitHub Pages  
+  base: '/',
   
   // Ignorar enlaces muertos temporalmente
   ignoreDeadLinks: true,
@@ -108,6 +108,22 @@ export default defineConfig({
           { text: 'Tourette', link: '/de/tourette' },
           { text: 'Mythen', link: '/de/mitos' },
           { text: 'Suche', link: '/de/busqueda-ayuda' }
+        ]
+      }
+    },
+    ru: {
+      label: 'Русский',
+      lang: 'ru',
+      link: '/ru/',
+      themeConfig: {
+        nav: [
+          { text: 'Главная', link: '/ru/' },
+          { text: 'ПТСР', link: '/ru/tept' },
+          { text: 'PRENC', link: '/ru/prenc' },
+          { text: 'Аутизм', link: '/ru/autismo' },
+          { text: 'Туретт', link: '/ru/tourette' },
+          { text: 'Мифы', link: '/ru/mitos' },
+          { text: 'Поиск', link: '/ru/busqueda-ayuda' }
         ]
       }
     }
@@ -525,6 +541,74 @@ export default defineConfig({
             { text: 'Mythen 61–70 (Familie)', link: '/de/mitos-generales-7' }
           ]
         }
+      ],
+      // Sidebar para ruso
+      '/ru/': [
+        {
+          text: 'Основные состояния',
+          items: [
+            { text: 'Что такое ПТСР?', link: '/ru/tept' },
+            { text: 'Что такое PRENC?', link: '/ru/prenc' },
+            { text: 'Что такое аутизм?', link: '/ru/autismo' },
+            { text: 'Что такое синдром Туретта?', link: '/ru/tourette' }
+          ]
+        },
+        {
+          text: 'Мифы по жизненному контексту',
+          items: [
+            { text: 'Таинственная жизнь', link: '/ru/mitos-sacramental' },
+            { text: 'Подростки и молодежь', link: '/ru/mitos-juventud' },
+            { text: 'Крещение и дети', link: '/ru/mitos-bautismo' },
+            { text: 'Пожилые люди', link: '/ru/mitos-adultos-mayores' },
+            { text: 'Этапы жизни', link: '/ru/mitos-etapas-de-la-vida' },
+            { text: 'Этапы жизни (продолжение)', link: '/ru/mitos-etapas-de-la-vida-continuacion' },
+            { text: 'Культуры', link: '/ru/mitos-culturas' },
+            { text: 'Культуры (продолжение)', link: '/ru/mitos-culturas-continuacion' },
+            { text: 'Социальные классы', link: '/ru/mitos-clases-sociales' },
+            { text: 'Социальные классы (продолжение)', link: '/ru/mitos-clases-sociales-continuacion' },
+            { text: 'Влияние на работу', link: '/ru/mitos-laboral' },
+            { text: 'Влияние на работу (продолжение)', link: '/ru/mitos-laboral-continuacion' },
+            { text: 'Воспитание детей', link: '/ru/mitos-crianza' },
+            { text: 'Миссия и служение', link: '/ru/mitos-mision' },
+            { text: 'Горе и потеря', link: '/ru/mitos-duelo' },
+            { text: 'Молитва и изучение', link: '/ru/mitos-oracion' },
+            { text: 'Лидерство', link: '/ru/mitos-liderazgo' },
+            { text: 'Любовь', link: '/ru/mitos-amor' },
+            { text: 'Любовь (продолжение)', link: '/ru/mitos-amor-continuacion' },
+            { text: 'Брак', link: '/ru/mitos-relaciones' },
+            { text: 'Семья', link: '/ru/mitos-familia' },
+            { text: 'Семья (продолжение)', link: '/ru/mitos-familia-continuacion' },
+            { text: 'Дружба', link: '/ru/mitos-amistad' },
+            { text: 'Дружба (продолжение)', link: '/ru/mitos-amistad-continuacion' },
+            { text: 'Образование', link: '/ru/mitos-educacion' },
+            { text: 'Образование (продолжение)', link: '/ru/mitos-educacion-continuacion' },
+            { text: 'Эволюция', link: '/ru/mitos-evolucion' },
+            { text: 'Эволюция (продолжение)', link: '/ru/mitos-evolucion-continuacion' },
+            { text: 'Страхи', link: '/ru/mitos-miedos' },
+            { text: 'Страхи (продолжение)', link: '/ru/mitos-miedos-continuacion' }
+          ]
+        },
+        {
+          text: 'Мифы по типу путаницы',
+          items: [
+            { text: 'P.R.E.N.C. и фетишизм', link: '/ru/mitos-fetichismo' },
+            { text: 'Интернет и социальные сети', link: '/ru/mitos-internet' },
+            { text: 'Технологии', link: '/ru/mitos-tecnologia' },
+            { text: 'Покаяние', link: '/ru/mitos-arrepentimiento' }
+          ]
+        },
+        {
+          text: 'Общие мифы',
+          items: [
+            { text: 'Мифы 1–10', link: '/ru/mitos-generales-1' },
+            { text: 'Мифы 11–20', link: '/ru/mitos-generales-2' },
+            { text: 'Мифы 21–30', link: '/ru/mitos-generales-3' },
+            { text: 'Мифы 31–40', link: '/ru/mitos-generales-4' },
+            { text: 'Мифы 41–50', link: '/ru/mitos-generales-5' },
+            { text: 'Мифы 51–60 (Брак)', link: '/ru/mitos-generales-6' },
+            { text: 'Мифы 61–70 (Семья)', link: '/ru/mitos-generales-7' }
+          ]
+        }
       ]
     },
     
@@ -643,9 +727,25 @@ export default defineConfig({
               }
             }
           }
+        },
+        ru: {
+          translations: {
+            button: {
+              buttonText: 'Поиск',
+              buttonAriaLabel: 'Поиск'
+            },
+            modal: {
+              noResultsText: 'Результаты не найдены',
+              resetButtonTitle: 'Очистить поиск',
+              footer: {
+                selectText: 'для выбора',
+                navigateText: 'для навигации',
+                closeText: 'для закрытия'
+              }
+            }
+          }
         }
       }
     }
-    }
   }
-})
+}})

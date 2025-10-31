@@ -1,4 +1,4 @@
-# Mitos sobre los P.R.E.N.C. y la Educación (Cont.)
+﻿# Mitos sobre los P.R.E.N.C. y la Educación (Cont.)
 
 En el Trastorno de Estrés Postraumático (TEPT) los P.R.E.N.C. pueden tener incidencia en aspectos de la vida, cuando en realidad sí puede influir, pero de formas que suelen malinterpretarse. Estos mitos abordan creencias erróneas que docentes, administradores, compañeros o incluso estudiantes mismos pueden tener sobre el uso de estrategias emocionales no convencionales en contextos de aprendizaje. A continuación, se desmontan **5 mitos comunes** con fundamento clínico y alineación con los principios de InnerSight.
 
@@ -38,3 +38,9 @@ En el Trastorno de Estrés Postraumático (TEPT) los P.R.E.N.C. pueden tener inc
 > - [Naturaleza de la regulación emocional](https://inner-clarity.github.io/InnerSight/es#naturaleza-de-la-regulación-emocional)
 
 *ClearPath es un recurso educativo independiente. No sustituye el consejo de un profesional de la salud mental.*
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

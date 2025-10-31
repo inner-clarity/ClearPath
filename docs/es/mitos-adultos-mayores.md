@@ -1,4 +1,4 @@
-# Mitos sobre los P.R.E.N.C. en personas mayores o con discapacidad adquirida
+﻿# Mitos sobre los P.R.E.N.C. en personas mayores o con discapacidad adquirida
 
 En la vejez o tras una discapacidad adquirida (por accidente, enfermedad o envejecimiento), muchas personas desarrollan nuevas necesidades de regulación emocional. Sin embargo, estas estrategias a menudo se malinterpretan como “pérdida de dignidad” o “deterioro espiritual”. A continuación, se desmontan **5 mitos comunes** con fundamento clínico y alineación con los principios de InnerSight.
 
@@ -34,3 +34,9 @@ En la vejez o tras una discapacidad adquirida (por accidente, enfermedad o envej
 > - [Propuesta Institucional](https://inner-clarity.github.io/InnerSight/es#propuesta-institucional)
 
 *ClearPath es un recurso educativo independiente. No sustituye el consejo de un profesional de la salud mental.*
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

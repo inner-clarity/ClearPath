@@ -1,4 +1,4 @@
-# Mitos sobre os P.R.E.N.C. e a família 
+﻿# Mitos sobre os P.R.E.N.C. e a família 
 
 No Transtorno de Estresse Pós-Traumático (TEPT), os P.R.E.N.C. podem ter incidência em aspectos da vida, quando na realidade sim pode influenciar, mas de formas que costumam ser mal interpretadas. Estes mitos exploram crenças arraigadas —mas errôneas— sobre como as estratégias emocionais não convencionais interagem com os vínculos familiares, seja na infância, na idade adulta ou em famílias com histórias de trauma. A seguir, são desmontados **5 mitos comuns** com fundamento clínico e alinhamento com os princípios do InnerSight.
 
@@ -39,3 +39,9 @@ No Transtorno de Estresse Pós-Traumático (TEPT), os P.R.E.N.C. podem ter incid
 > - [Natureza da regulação emocional](https://inner-clarity.github.io/InnerSight/pt#natureza-da-regulação-emocional)
 
 *ClearPath é um recurso educacional independente. Não substitui o conselho de um profissional de saúde mental.*
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

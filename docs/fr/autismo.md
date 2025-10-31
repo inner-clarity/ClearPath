@@ -88,3 +88,9 @@ Servir avec un amour semblable à celui du Christ implique **de ne pas exiger qu
 ---
 
 > **Note** : Ce contenu a des fins éducatives. Il ne remplace pas le diagnostic ni le traitement professionnel. Si vous soupçonnez l'autisme chez vous-même ou chez quelqu'un que vous connaissez, cherchez l'évaluation d'un spécialiste en neurodéveloppement.
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

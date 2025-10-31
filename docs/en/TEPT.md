@@ -1,4 +1,4 @@
-# PTSD (Post-Traumatic Stress Disorder)
+﻿# PTSD (Post-Traumatic Stress Disorder)
 
 ## Clinical definition
 **Post-Traumatic Stress Disorder (PTSD)** is a mental health condition that can develop after exposure to a traumatic event —that is, a situation where there was **real or perceived risk of death, serious injury, sexual violence, or extreme threat to personal integrity**. It is not a sign of spiritual weakness, lack of faith, or disobedience. It is a **comprehensible neurological response** to an experience that exceeds the nervous system's capacity to process it at the time.
@@ -99,3 +99,9 @@ Yes. Thanks to **neuroplasticity**, the brain and nervous system can reorganize.
 ---
 
 > **Note**: This content is for educational and descriptive purposes. It does not substitute professional diagnosis or treatment. If you or someone you know experiences persistent symptoms after trauma, it's recommended to seek support from a mental health professional trained in trauma.
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

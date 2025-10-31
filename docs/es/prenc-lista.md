@@ -1,4 +1,4 @@
-<details>
+﻿<details>
 <summary>1 Caso “Ropa Interior de Compresión Invisible”</summary>
 
  - Contexto: TEPT -C relacional  - ansiedad social.</br>
@@ -242,6 +242,8 @@
  - Riesgo: Invisibilizado o considerado “superstición”.</br>
 </details>
 
+---
 
-
-
+::: tip
+Disclaimer pending translation
+:::

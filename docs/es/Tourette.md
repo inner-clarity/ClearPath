@@ -1,4 +1,4 @@
-# Síndrome de Tourette
+﻿# Síndrome de Tourette
 
 ## Definición clínica
 El **Síndrome de Tourette (ST)** es un trastorno neurológico del neurodesarrollo caracterizado por la presencia de **tics motores y vocales múltiples**, que comienzan en la infancia (antes de los 18 años) y persisten durante más de un año. No es un trastorno psiquiátrico, conductual ni espiritual. Es una **condición neurológica legítima**, con base genética y neurobiológica, que afecta la forma en que el cerebro procesa impulsos motores y sensoriales.
@@ -120,3 +120,9 @@ No existe una “cura”, pero sí estrategias efectivas:
 ---
 
 > **Nota**: Este contenido tiene fines educativos. No sustituye el diagnóstico ni tratamiento profesional. Si tú o alguien que conoces presenta tics persistentes, se recomienda consultar con un neurólogo o psiquiatra especializado en trastornos del neurodesarrollo.
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

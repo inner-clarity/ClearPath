@@ -1,4 +1,4 @@
-# 🔍 Guia de Busca
+﻿# 🔍 Guia de Busca
 
 ## Como buscar efetivamente no ClearPath
 
@@ -37,3 +37,9 @@ Para encontrar frases exatas, use aspas:
 2. Use frases mais longas
 3. Inclua contexto relacionado
 4. Verifique a ortografia
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

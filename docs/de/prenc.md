@@ -74,3 +74,9 @@ Das Ziel ist nicht, das Verfahren zu eliminieren, sondern **die Person zu beglei
 ---
 
 > **Hinweis**: Dieser Inhalt dient Bildungszwecken. Er ersetzt nicht die professionelle Diagnose oder Behandlung. P.R.E.N.C. müssen im individuellen klinischen Kontext bewertet werden, unter Respektierung der Autonomie und subjektiven Erfahrung jeder Person.
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

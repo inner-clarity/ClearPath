@@ -107,3 +107,9 @@ Ministrare con amore simile a quello di Cristo implica **non giudicare i tic com
 ---
 
 > **Nota**: Questo contenuto ha scopi educativi. Non sostituisce la diagnosi né il trattamento professionale. Se sospetti la Sindrome di Tourette in te stesso/a o in qualcuno che conosci, cerca la valutazione di un neurologo o specialista in neurosviluppo.
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

@@ -1,4 +1,4 @@
-# Sobre los P.R.E.N.C. y las culturas
+﻿# Sobre los P.R.E.N.C. y las culturas
 
 El Trastorno de Estrés Postraumático (TEPT) no está limitado a una cultura. Puede surgir en cualquier contexto geografico, incluso décadas después del trauma, y puede afectar a personas de todas las edades y contextos. Sin embargo, cuando una persona necesita estrategias de regulación emocional para habitar su cuerpo con paz, surgen mitos que confunden la fisiología con el aspecto cultural. A continuación, se desmontan **5 mitos comunes** con fundamento clínico y alineación con los principios de InnerSight.
 
@@ -44,3 +44,9 @@ El Trastorno de Estrés Postraumático (TEPT) no está limitado a una cultura. P
 > - [Naturaleza de la regulación emocional](https://inner-clarity.github.io/InnerSight/es#naturaleza-de-la-regulación-emocional)
 
 *ClearPath es un recurso educativo independiente. No sustituye el consejo de un profesional de la salud mental.*
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

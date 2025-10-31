@@ -1,4 +1,4 @@
-# Mitos sobre los P.R.E.N.C. y la crianza de hijos con necesidades neurológicas
+﻿# Mitos sobre los P.R.E.N.C. y la crianza de hijos con necesidades neurológicas
 
 Criar a un hijo con autismo, TEPT-C u otra diferencia neurológica puede ser profundamente gratificante, pero también desafiante. Cuando los padres apoyan las necesidades regulatorias de sus hijos, a menudo enfrentan juicios o malentendidos. A continuación, se desmontan **5 mitos comunes** con fundamento clínico y alineación con los principios de InnerSight.
 
@@ -34,3 +34,9 @@ Criar a un hijo con autismo, TEPT-C u otra diferencia neurológica puede ser pro
 > - [Fundamentos Psicológicos](https://inner-clarity.github.io/InnerSight/es#fundamentos-psicológicos)
 
 *ClearPath es un recurso educativo independiente. No sustituye el consejo de un profesional de la salud mental.*
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

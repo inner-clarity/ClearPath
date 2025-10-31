@@ -1,4 +1,4 @@
-<details>
+﻿<details>
 <summary>1 Case "Invisible Compression Underwear"</summary>
 
  - Context: PTSD-C relational - social anxiety.</br>
@@ -242,6 +242,8 @@
  - Risk: Invisibilized or considered "superstition".</br>
 </details>
 
+---
 
-
-
+::: tip
+Disclaimer pending translation
+:::

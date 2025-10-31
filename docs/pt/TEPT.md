@@ -1,4 +1,4 @@
-# TEPT (Transtorno de Estresse Pós-Traumático)
+﻿# TEPT (Transtorno de Estresse Pós-Traumático)
 
 ## Definição clínica
 O **Transtorno de Estresse Pós-Traumático (TEPT)** é uma condição de saúde mental que pode se desenvolver após a exposição a um evento traumático —ou seja, uma situação onde houve **risco real ou percebido de morte, lesão grave, violência sexual ou ameaça extrema à integridade pessoal**. Não é um sinal de fraqueza espiritual, falta de fé ou desobediência. É uma **resposta neurológica compreensível** a uma experiência que excede a capacidade do sistema nervoso para processá-la no momento.
@@ -99,3 +99,9 @@ Sim. Graças à **neuroplasticidade**, o cérebro e o sistema nervoso podem se r
 ---
 
 > **Nota**: Este conteúdo tem fins educativos e descritivos. Não substitui o diagnóstico nem tratamento profissional. Se você ou alguém que conhece experimenta sintomas persistentes após um trauma, recomenda-se buscar apoio de um profissional de saúde mental capacitado em trauma.
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

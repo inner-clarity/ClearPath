@@ -99,3 +99,9 @@ Ja. Dank der **Neuroplastizität** können sich Gehirn und Nervensystem reorgani
 ---
 
 > **Hinweis**: Dieser Inhalt dient Bildungs- und Beschreibungszwecken. Er ersetzt nicht die professionelle Diagnose oder Behandlung. Wenn Sie oder jemand, den Sie kennen, anhaltende Symptome nach einem Trauma erleben, wird empfohlen, Unterstützung von einem auf Trauma spezialisierten Fachmann für psychische Gesundheit zu suchen.
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

@@ -1,4 +1,4 @@
-# Tourette Syndrome
+﻿# Tourette Syndrome
 
 ## Clinical definition
 **Tourette Syndrome (TS)** is a neurodevelopmental neurological disorder characterized by the presence of **multiple motor and vocal tics**, which begin in childhood (before age 18) and persist for more than a year. It is not a psychiatric, behavioral, or spiritual disorder. It is a **legitimate neurological condition**, with genetic and neurobiological basis, that affects how the brain processes motor and sensory impulses.
@@ -120,3 +120,9 @@ There's no "cure," but there are effective strategies:
 ---
 
 > **Note**: This content is for educational purposes. It does not substitute professional diagnosis or treatment. If you or someone you know has persistent tics, consulting with a neurologist or psychiatrist specialized in neurodevelopmental disorders is recommended.
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

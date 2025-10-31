@@ -1,4 +1,4 @@
-# Mitos sobre los P.R.E.N.C. y la oración personal o el estudio de las Escrituras
+﻿# Mitos sobre los P.R.E.N.C. y la oración personal o el estudio de las Escrituras
 
 La vida espiritual personal —oración, estudio de las Escrituras, meditación— es fundamental para el discipulado. Pero cuando una persona necesita apoyo para regular su sistema nervioso durante estos momentos, surgen mitos que confunden la fisiología con la fe. A continuación, se desmontan **5 mitos comunes** con fundamento clínico y alineación con los principios de InnerSight.
 
@@ -34,3 +34,9 @@ La vida espiritual personal —oración, estudio de las Escrituras, meditación�
 > - [Dignidad espiritual y salud mental](https://inner-clarity.github.io/InnerSight/es#dignidad-espiritual-y-salud-mental)
 
 *ClearPath es un recurso educativo independiente. No sustituye el consejo de un profesional de la salud mental.*
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

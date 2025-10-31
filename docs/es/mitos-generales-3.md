@@ -1,4 +1,4 @@
-# Mitos generales sobre P.R.E.N.C. y TEPT (21–30)
+﻿# Mitos generales sobre P.R.E.N.C. y TEPT (21–30)
 
 Tercera entrega de una colección de **70 mitos fundamentales** que abordan confusiones comunes sobre el Trastorno de Estrés Postraumático (TEPT/TEPT-C) y los Procedimientos de Regulación Emocional No Convencionales (P.R.E.N.C.). Cada mito se desmonta con fundamento clínico y alineación con los principios de InnerSight.
 
@@ -59,3 +59,9 @@ Tercera entrega de una colección de **70 mitos fundamentales** que abordan conf
 > - [Naturaleza de la regulación emocional](https://inner-clarity.github.io/InnerSight/es#naturaleza-de-la-regulación-emocional)
 
 *ClearPath es un recurso educativo independiente. No sustituye el consejo de un profesional de la salud mental.*
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

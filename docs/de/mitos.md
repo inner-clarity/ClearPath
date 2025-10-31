@@ -87,3 +87,9 @@ Im Folgenden werden häufige Mythen —und ihre klinischen Klarstellungen— üb
 > — **Moroni 7:47**
 
 *ClearPath ist eine unabhängige Bildungsressource. Sie ist nicht offiziell mit der Kirche Jesu Christi der Heiligen der Letzten Tage verbunden oder von ihr gebilligt.*
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

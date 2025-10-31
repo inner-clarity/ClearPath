@@ -1,4 +1,4 @@
-# Mitos sobre os P.R.E.N.C. e a Educação
+﻿# Mitos sobre os P.R.E.N.C. e a Educação
 
 No Transtorno de Estresse Pós-Traumático (TEPT), os P.R.E.N.C. podem ter incidência em aspectos da vida, quando na realidade sim pode influenciar, mas de formas que costumam ser mal interpretadas. Estes mitos abordam crenças errôneas que professores, administradores, colegas ou até mesmo estudantes podem ter sobre o uso de estratégias emocionais não convencionais em contextos de aprendizagem. A seguir, são desmontados **5 mitos comuns** com fundamento clínico e alinhamento com os princípios do InnerSight.
 
@@ -40,6 +40,8 @@ No Transtorno de Estresse Pós-Traumático (TEPT), os P.R.E.N.C. podem ter incid
 
 *ClearPath é um recurso educacional independente. Não substitui o conselho de um profissional de saúde mental.*
 
+---
 
-
-
+::: tip
+Disclaimer pending translation
+:::

@@ -11,3 +11,9 @@ Questa pagina non Ã¨ ancora stata tradotta. Per favore, consulta la [versione 
 ---
 
 *Questo contenuto Ã¨ in fase di traduzione. Torna presto.*
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

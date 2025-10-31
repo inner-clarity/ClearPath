@@ -1,4 +1,4 @@
-# Mitos sobre os P.R.E.N.C. e sua evolução (Cont.)
+﻿# Mitos sobre os P.R.E.N.C. e sua evolução (Cont.)
 
 No Transtorno de Estresse Pós-Traumático (TEPT), os P.R.E.N.C. podem ter incidência em aspectos da vida, uma crença que costuma surgir do medo ao desconhecido, da medicalização excessiva ou do estigma em relação às estratégias não tradicionais de autocuidado. A seguir, são desmontados **5 mitos comuns** com fundamento clínico e alinhamento com os princípios do InnerSight.
 
@@ -39,7 +39,8 @@ No Transtorno de Estresse Pós-Traumático (TEPT), os P.R.E.N.C. podem ter incid
 
 *ClearPath é um recurso educacional independente. Não substitui o conselho de um profissional de saúde mental.*
 
+---
 
-
-
-
+::: tip
+Disclaimer pending translation
+:::

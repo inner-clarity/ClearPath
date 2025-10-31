@@ -1,4 +1,4 @@
-# Mitos generales sobre P.R.E.N.C. y TEPT (61–70): Familia
+﻿# Mitos generales sobre P.R.E.N.C. y TEPT (61–70): Familia
 
 Séptima y última entrega de la colección de **70 mitos fundamentales**, con enfoque en el **contexto familiar**. Cada mito se desmonta con fundamento clínico y alineación con los principios de InnerSight.
 
@@ -59,3 +59,9 @@ Séptima y última entrega de la colección de **70 mitos fundamentales**, con e
 > - [Dignidad espiritual y salud mental](https://inner-clarity.github.io/InnerSight/es#dignidad-espiritual-y-salud-mental)
 
 *ClearPath es un recurso educativo independiente. No sustituye el consejo de un profesional de la salud mental.*
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

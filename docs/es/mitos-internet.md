@@ -1,4 +1,4 @@
-# Mitos sobre los P.R.E.N.C. y la búsqueda en Internet y redes sociales
+﻿# Mitos sobre los P.R.E.N.C. y la búsqueda en Internet y redes sociales
 
 Cuando una persona no conoce el marco clínico de sus necesidades, suele recurrir a Internet o redes sociales para buscar respuestas. Sin embargo, fuera de contextos clínicos, estos temas suelen aparecer en entornos sexualizados, lo que genera confusión y vergüenza. A continuación, se desmontan **5 mitos comunes** con fundamento clínico y alineación con los principios de InnerSight.
 
@@ -34,3 +34,9 @@ Cuando una persona no conoce el marco clínico de sus necesidades, suele recurri
 > - [Cuando el amor se condiciona a la conformidad](https://inner-clarity.github.io/InnerSight/es#cuando-el-amor-se-condiciona-a-la-conformidad)
 
 *ClearPath es un recurso educativo independiente. No sustituye el consejo de un profesional de la salud mental.*
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

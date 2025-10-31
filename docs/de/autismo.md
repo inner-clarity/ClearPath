@@ -88,3 +88,9 @@ Mit Christus-ähnlicher Liebe zu dienen bedeutet **nicht zu verlangen, dass sie 
 ---
 
 > **Hinweis**: Dieser Inhalt dient Bildungszwecken. Er ersetzt nicht die professionelle Diagnose oder Behandlung. Wenn Sie Autismus bei sich selbst oder jemandem, den Sie kennen, vermuten, suchen Sie die Bewertung eines Spezialisten für Neuroentwicklung.
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

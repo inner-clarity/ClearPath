@@ -1,4 +1,4 @@
-# Mitos sobre los P.R.E.N.C. y el bautismo / confirmación de niños
+﻿# Mitos sobre los P.R.E.N.C. y el bautismo / confirmación de niños
 
 El bautismo y la confirmación son ordenanzas sagradas que marcan la pertenencia formal de un niño al Reino de Dios. Sin embargo, cuando un niño necesita estrategias de regulación emocional para participar con paz en estos momentos, surgen dudas y mitos que pueden retrasar innecesariamente su acceso a bendiciones esenciales. A continuación, se desmontan **5 mitos comunes** con fundamento clínico y doctrinal.
 
@@ -34,3 +34,9 @@ El bautismo y la confirmación son ordenanzas sagradas que marcan la pertenencia
 > - [Guía para Conversaciones Familiares Difíciles](https://inner-clarity.github.io/InnerSight/es#guía-para-conversaciones-familiares-difíciles)
 
 *ClearPath es un recurso educativo independiente. No sustituye el consejo de un profesional de la salud mental.*
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

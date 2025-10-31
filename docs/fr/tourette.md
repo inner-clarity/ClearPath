@@ -94,3 +94,9 @@ Servir avec un amour semblable à celui du Christ implique **de ne pas juger les
 ---
 
 > **Note** : Ce contenu a des fins éducatives. Il ne remplace pas le diagnostic ni le traitement professionnel. Si vous soupçonnez le Syndrome de Tourette chez vous-même ou chez quelqu'un que vous connaissez, cherchez l'évaluation d'un neurologue ou spécialiste en neurodéveloppement.
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

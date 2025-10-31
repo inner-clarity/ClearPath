@@ -11,3 +11,9 @@ Diese Seite wurde noch nicht Ã¼bersetzt. Bitte konsultieren Sie vorerst die [s
 ---
 
 *Dieser Inhalt wird gerade Ã¼bersetzt. Schauen Sie bald wieder vorbei.*
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

@@ -1,4 +1,4 @@
-![ClearPath logo](https://inner-clarity.github.io/InnerSight/logo.svg)
+﻿![ClearPath logo](https://inner-clarity.github.io/InnerSight/logo.svg)
 
 # ClearPath  
 **Respostas claras para corações confusos**
@@ -85,3 +85,9 @@ Cada entrada aborda um **mito específico**, explica por que é falso de uma per
 > — **Moroni 7:47**
 
 *ClearPath é um recurso educativo independente, criado por membros fiéis. Não está afiliado nem respaldado oficialmente por A Igreja de Jesus Cristo dos Santos dos Últimos Dias.*
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

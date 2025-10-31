@@ -1,4 +1,4 @@
-# Mitos sobre os P.R.E.N.C. e a vida sacramental
+﻿# Mitos sobre os P.R.E.N.C. e a vida sacramental
 
 A reunião sacramental é um tempo sagrado de renovação de convênios. No entanto, quando uma pessoa precisa de estratégias de regulação emocional para estar presente nesse momento, surgem mal-entendidos. A seguir, são desmistificados **5 mitos comuns** —com fundamento clínico e alinhamento com os princípios do InnerSight.
 
@@ -34,3 +34,9 @@ A reunião sacramental é um tempo sagrado de renovação de convênios. No enta
 > - [Natureza da regulação emocional](https://inner-clarity.github.io/InnerSight/pt#natureza-da-regulacao-emocional)
 
 *ClearPath é um recurso educativo independente. Não substitui o conselho de um profissional de saúde mental.*
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

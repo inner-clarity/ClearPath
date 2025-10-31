@@ -85,3 +85,9 @@ Ogni voce affronta un **mito specifico**, spiega perché è falso da una prospet
 > — **Moroni 7:47**
 
 *ClearPath è una risorsa educativa indipendente, creata da membri fedeli. Non è affiliato né ufficialmente approvato dalla Chiesa di Gesù Cristo dei Santi degli Ultimi Giorni.*
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

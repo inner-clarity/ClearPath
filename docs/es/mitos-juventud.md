@@ -1,4 +1,4 @@
-# Mitos sobre los P.R.E.N.C. en la adolescencia y juventud
+﻿# Mitos sobre los P.R.E.N.C. en la adolescencia y juventud
 
 La adolescencia es una etapa de intensa transformación neurológica, espiritual y social. Cuando jóvenes con necesidades de regulación emocional —por trauma, neurodivergencia o ansiedad— usan estrategias no convencionales, surgen malentendidos que pueden afectar su fe, autoestima y pertenencia. A continuación, se desmontan **5 mitos comunes** con fundamento clínico y alineación con los principios de InnerSight.
 
@@ -34,3 +34,9 @@ La adolescencia es una etapa de intensa transformación neurológica, espiritual
 > - [Fundamentos Psicológicos](https://inner-clarity.github.io/InnerSight/es#fundamentos-psicológicos)
 
 *ClearPath es un recurso educativo independiente. No sustituye el consejo de un profesional de la salud mental.*
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

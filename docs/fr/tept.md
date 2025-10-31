@@ -99,3 +99,9 @@ Oui. Grâce à la **neuroplasticité**, le cerveau et le système nerveux peuven
 ---
 
 > **Note** : Ce contenu a des fins éducatives et descriptives. Il ne remplace pas le diagnostic ni le traitement professionnel. Si vous ou quelqu'un que vous connaissez éprouvez des symptômes persistants après un trauma, il est recommandé de chercher le soutien d'un professionnel de la santé mentale spécialisé en trauma.
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

@@ -1,4 +1,4 @@
-# PRENC (Procedimentos de Regulação Emocional Não Convencionais)
+﻿# PRENC (Procedimentos de Regulação Emocional Não Convencionais)
 
 ## Definição clínica
 Os **Procedimentos de Regulação Emocional Não Convencionais (P.R.E.N.C.)** são estratégias legítimas, frequentemente não verbais e corporificadas, que algumas pessoas utilizam para **regular seu sistema nervoso, restaurar a segurança interna e habitar seu corpo com maior estabilidade** após experiências de trauma, negligência precoce ou diferenças neurológicas (como TEPT-C, autismo ou dissociação crônica).
@@ -324,3 +324,9 @@ A meta não é eliminar o procedimento, mas **acompanhar a pessoa a entender sua
 ---
 
 > **Nota**: Este conteúdo tem fins educativos. Não substitui o diagnóstico nem tratamento profissional. Os P.R.E.N.C. devem ser avaliados em contexto clínico individual, respeitando a autonomia e a experiência subjetiva de cada pessoa.
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

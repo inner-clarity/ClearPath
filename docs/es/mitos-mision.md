@@ -1,4 +1,4 @@
-# Mitos sobre los P.R.E.N.C. en contextos de misión o servicio fuera del hogar
+﻿# Mitos sobre los P.R.E.N.C. en contextos de misión o servicio fuera del hogar
 
 Servir una misión o un llamamiento fuera del hogar es una experiencia profundamente espiritual. Sin embargo, cuando un siervo necesita estrategias de regulación emocional para mantener su estabilidad en entornos exigentes, surgen mitos que pueden impedir su participación plena. A continuación, se desmontan **5 mitos comunes** con fundamento clínico y alineación con los principios de InnerSight.
 
@@ -34,3 +34,9 @@ Servir una misión o un llamamiento fuera del hogar es una experiencia profundam
 > - [Preguntas Frecuentes para Líderes](https://inner-clarity.github.io/InnerSight/es#preguntas-frecuentes-para-líderes)
 
 *ClearPath es un recurso educativo independiente. No sustituye el consejo de un profesional de la salud mental.*
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

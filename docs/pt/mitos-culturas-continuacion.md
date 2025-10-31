@@ -1,4 +1,4 @@
-# Sobre os P.R.E.N.C. e as culturas (continuação)
+﻿# Sobre os P.R.E.N.C. e as culturas (continuação)
 
 O Transtorno de Estresse Pós-Traumático (TEPT) não está limitado a uma cultura. Pode surgir em qualquer contexto geográfico, mesmo décadas após o trauma, e pode afetar pessoas de todas as idades e contextos. No entanto, quando uma pessoa precisa de estratégias de regulação emocional para habitar seu corpo com paz, surgem mitos que confundem a fisiologia com o aspecto cultural. A seguir, são desmontados **5 mitos comuns** com fundamento clínico e alinhamento com os princípios do InnerSight.
 
@@ -45,7 +45,8 @@ O Transtorno de Estresse Pós-Traumático (TEPT) não está limitado a uma cultu
 
 *ClearPath é um recurso educacional independente. Não substitui o conselho de um profissional de saúde mental.*
 
+---
 
-
-
-
+::: tip
+Disclaimer pending translation
+:::

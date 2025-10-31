@@ -1,4 +1,4 @@
-# Mitos sobre los P.R.E.N.C. y los miedos
+﻿# Mitos sobre los P.R.E.N.C. y los miedos
 
 En el Trastorno de Estrés Postraumático (TEPT) los P.R.E.N.C. pueden tener incidencia en aspectos de la vida, una afirmación que, aunque contiene una parte de verdad (los PRENC no eliminan los miedos de raíz como una cura mágica), suele usarse para minimizar su valor real: regular la respuesta al miedo, no erradicar la emoción en sí. A continuación, se desmontan **5 mitos comunes** con fundamento clínico y alineación con los principios de InnerSight.
 
@@ -39,3 +39,9 @@ En el Trastorno de Estrés Postraumático (TEPT) los P.R.E.N.C. pueden tener inc
 > - [Naturaleza de la regulación emocional](https://inner-clarity.github.io/InnerSight/es#naturaleza-de-la-regulación-emocional)
 
 *ClearPath es un recurso educativo independiente. No sustituye el consejo de un profesional de la salud mental.*
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

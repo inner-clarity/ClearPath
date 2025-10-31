@@ -80,3 +80,9 @@ L'obiettivo non è eliminare la procedura, ma **accompagnare la persona a compre
 ---
 
 > **Nota**: Questo contenuto ha scopi educativi. Non sostituisce la diagnosi né il trattamento professionale. Le P.R.E.N.C. devono essere valutate in contesto clinico individuale, rispettando l'autonomia e l'esperienza soggettiva di ogni persona.
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

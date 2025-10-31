@@ -87,3 +87,9 @@ Voici des mythes courants —et leurs clarifications cliniques— sur le Trouble
 > — **Moroni 7:47**
 
 *ClearPath est une ressource éducative indépendante. Elle n'est pas affiliée ni officiellement approuvée par l'Église de Jésus-Christ des Saints des Derniers Jours.*
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

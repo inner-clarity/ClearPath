@@ -1,4 +1,4 @@
-# Mitos sobre los P.R.E.N.C. y el uso de tecnología o dispositivos de apoyo
+﻿# Mitos sobre los P.R.E.N.C. y el uso de tecnología o dispositivos de apoyo
 
 En la era digital, muchas personas usan apps, relojes inteligentes, dispositivos táctiles u otras herramientas tecnológicas para autorregularse. Sin embargo, estas estrategias a menudo se malinterpretan como “falta de fe” o “dependencia innecesaria”. A continuación, se desmontan **5 mitos comunes** sobre el uso de tecnología como forma legítima de regulación emocional.
 
@@ -34,3 +34,9 @@ En la era digital, muchas personas usan apps, relojes inteligentes, dispositivos
 > - [Fundamentos Psicológicos](https://inner-clarity.github.io/InnerSight/es#fundamentos-psicológicos)
 
 *ClearPath es un recurso educativo independiente. No sustituye el consejo de un profesional de la salud mental.*
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

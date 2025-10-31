@@ -1,4 +1,4 @@
-# Mitos sobre los P.R.E.N.C. y el fetichismo
+﻿# Mitos sobre los P.R.E.N.C. y el fetichismo
 
 Una de las confusiones más dañinas es equiparar las estrategias de regulación emocional con atracción sexual. Esta asociación puede generar vergüenza profunda, aislamiento y exclusión espiritual. A continuación, se desmontan **5 mitos comunes** con fundamento clínico y alineación con los principios de InnerSight.
 
@@ -34,3 +34,9 @@ Una de las confusiones más dañinas es equiparar las estrategias de regulación
 > - [Dignidad espiritual y salud mental](https://inner-clarity.github.io/InnerSight/es#dignidad-espiritual-y-salud-mental)
 
 *ClearPath es un recurso educativo independiente. No sustituye el consejo de un profesional de la salud mental.*
+
+---
+
+::: tip
+Disclaimer pending translation
+:::

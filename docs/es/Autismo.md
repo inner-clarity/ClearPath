@@ -1,4 +1,4 @@
-# Autismo (Trastorno del Espectro Autista)
+﻿# Autismo (Trastorno del Espectro Autista)
 
 ## Definición clínica
 El **Autismo**, o **Trastorno del Espectro Autista (TEA)**, es una **condición neurológica del neurodesarrollo** que se manifiesta desde la primera infancia y se caracteriza por diferencias en:
@@ -101,3 +101,9 @@ La dignidad espiritual de una persona autista **no depende de su capacidad para 
 ---
 
 > **Nota**: Este contenido tiene fines educativos. No sustituye el diagnóstico ni tratamiento profesional. Si tú o alguien que conoces presenta signos de autismo, se recomienda una evaluación por un equipo multidisciplinario especializado en neurodesarrollo.
+
+---
+
+::: tip
+Disclaimer pending translation
+:::
